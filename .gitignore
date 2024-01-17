@@ -1,1 +1,6 @@
 **/__pycache__/
+*/**/*.csv
+*.csv
+main.py
+.DS_Store
+poetry.lock
